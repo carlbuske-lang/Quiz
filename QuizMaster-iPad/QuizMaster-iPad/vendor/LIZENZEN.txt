@@ -1,0 +1,4 @@
+Mitgelieferte Bibliotheken
+- PDF.js 4.10.38 (Mozilla), Apache License 2.0, https://github.com/mozilla/pdf.js
+- PeerJS 1.5.4, MIT License, https://github.com/peers/peerjs
+- qrcode-generator 1.4.4 (Kazuhiko Arase), MIT License, https://github.com/kazuhikoarase/qrcode-generator

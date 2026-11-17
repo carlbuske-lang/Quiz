@@ -1,0 +1,49 @@
+QuizMaster für iPad – so kommt die App aufs iPad
+================================================
+
+Die App läuft komplett auf dem iPad. Damit Safari sie laden kann, liegt sie einmal im Netz.
+Das geht kostenlos mit GitHub Pages. Ab dann reicht ein Link, auch für andere.
+
+A) Einmalig online stellen (am PC, ca. 10 Minuten)
+1. Auf github.com ein kostenloses Konto anlegen (falls noch keins da ist).
+2. Oben rechts „+“ › „New repository“. Name: quizmaster. Sichtbarkeit: Public. „Create repository“.
+3. Auf der neuen Seite „uploading an existing file“ anklicken.
+4. Den entpackten Ordner „QuizMaster-iPad“ öffnen, ALLES darin markieren (nicht den Ordner selbst)
+   und ins Browserfenster ziehen. Warten, bis alle Dateien gelistet sind, dann „Commit changes“.
+5. Oben „Settings“ › links „Pages“. Bei „Branch“: main und „/ (root)“ wählen, „Save“.
+6. Nach 1 bis 2 Minuten steht oben auf der Pages-Seite die Adresse,
+   etwa https://DEINNAME.github.io/quizmaster/
+
+B) Aufs iPad (und das Gleiche macht deine Freundin)
+1. Die Adresse in Safari öffnen.
+2. Auf Teilen tippen (Quadrat mit Pfeil), dann „Zum Home-Bildschirm“.
+   „Als Web-App öffnen“ eingeschaltet lassen, „Hinzufügen“.
+3. QuizMaster ab jetzt über das Symbol auf dem Home-Bildschirm öffnen. Vollbild, läuft auch offline,
+   die Daten bleiben dauerhaft auf dem iPad.
+
+C) Dein Kneipenquiz aufs iPad holen
+- Die Datei „Kneipenquiz-fuer-iPad.json“ aufs iPad legen (AirDrop, Mail oder iCloud Drive).
+- In QuizMaster: Einstellungen › Daten › Gesamtsicherung › „Einspielen“ › Datei wählen › „Dazunehmen“.
+- Später geht es auch direkt vom PC: In der PC-Fassung Einstellungen › Daten › Gesamtsicherung › „Sichern“,
+  die Datei aufs iPad, dort einspielen. Umgekehrt (iPad zum PC) geht das noch nicht.
+
+D) Spotify
+- Ohne Einrichtung spielt QuizMaster die 30-Sekunden-Vorschau von Spotify in der App.
+- Für ganze Songs ab beliebiger Stelle mit automatischem Stopp (wie am Mac):
+  Einstellungen › Spotify › „Anleitung“. Braucht Spotify Premium und einmal 5 Minuten im Spotify-Dashboard.
+  Die Redirect URI ist die Adresse aus Schritt A6.
+
+E) Beamer
+- Kabel oder AirPlay mit Spiegeln: Cockpit › … › „Beamer öffnen“ › „Bildschirm spiegeln“.
+- Externer Bildschirm erweitert (Stage Manager): in Safari „Eigenes Fenster“.
+- Laptop oder Fernseher am Beamer: „Anderes Gerät am Beamer“, Code oder QR-Code scannen.
+- Bilder, PDF-Seiten und YouTube aus dem Cockpit gehen mit der Taste „Beamer“ in der Ansicht auf die Leinwand.
+
+F) Zweites Gerät (Handy zum Auswerten)
+- Einstellungen › Zweites Gerät › „Einschalten“. QR-Code mit dem Handy scannen. Beide brauchen Internet.
+
+G) Updates
+- Neue Dateien wie in A4 hochladen (gleiche Namen überschreiben). In der App: Einstellungen › „Neu laden“.
+
+Hinweis: Was du über GitHub hochlädst, ist öffentlich lesbar. Die App enthält deshalb kein Quiz und keine
+Lösungen. Dein Kneipenquiz steckt nur in der Datei aus Schritt C, die gibst du nicht hoch.
